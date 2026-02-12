@@ -1,0 +1,156 @@
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.exe
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.deps.json
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.runtimeconfig.json
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.dll
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.pdb
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello_MarkupCompile.cache
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello_MarkupCompile.lref
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.g.resources
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.AssemblyInfo.cs
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.dll
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\refint\WpfHello.dll
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.pdb
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.genruntimeconfig.cache
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\ref\WpfHello.dll
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\MyWindow.g.cs
+C:\Users\Home\Desktop\С#\Lab3\WPF\WpfHello\WpfHello\obj\Debug\net8.0-windows\MyWindow.baml
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\MyWindow.g.cs
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello_MarkupCompile.cache
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello_MarkupCompile.lref
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.dll
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\refint\WpfHello.dll
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.pdb
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.exe
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.deps.json
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.runtimeconfig.json
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.dll
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.pdb
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\MyWindow.baml
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.g.resources
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.AssemblyInfo.cs
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.genruntimeconfig.cache
+C:\Users\Home\Desktop\С#\Lab3\WPF\WPF Практическая 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\ref\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.exe
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.deps.json
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.runtimeconfig.json
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.pdb
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\MyWindow.g.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello_MarkupCompile.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello_MarkupCompile.lref
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\MyWindow.baml
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.g.resources
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.AssemblyInfoInputs.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.AssemblyInfo.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.csproj.CoreCompileInputs.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\refint\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.pdb
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.genruntimeconfig.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\C-labs-wpf2\WpfHello\WpfHello\obj\Debug\net8.0-windows\ref\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.exe
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.deps.json
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.runtimeconfig.json
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.pdb
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\MyWindow.g.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello_MarkupCompile.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello_MarkupCompile.lref
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\MyWindow.baml
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.g.resources
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.AssemblyInfoInputs.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.AssemblyInfo.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.csproj.CoreCompileInputs.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\refint\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.pdb
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.genruntimeconfig.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 3 упр 3\WpfHello\WpfHello\obj\Debug\net8.0-windows\ref\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\MyWindow.g.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello_MarkupCompile.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello_MarkupCompile.lref
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\refint\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.pdb
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.exe
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.deps.json
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.runtimeconfig.json
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.pdb
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\MyWindow.baml
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.g.resources
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.AssemblyInfoInputs.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.AssemblyInfo.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.csproj.CoreCompileInputs.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.genruntimeconfig.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\ref\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.exe
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.deps.json
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.runtimeconfig.json
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.pdb
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\MyWindow.g.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello_MarkupCompile.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello_MarkupCompile.lref
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\MyWindow.baml
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.g.resources
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.AssemblyInfoInputs.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.AssemblyInfo.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.csproj.CoreCompileInputs.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\refint\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.pdb
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.genruntimeconfig.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\ref\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 4 упр 2\WpfHello\WpfHello\obj\Debug\net8.0-windows\App.baml
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.exe
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.deps.json
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.runtimeconfig.json
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\bin\Debug\net8.0-windows\WpfHello.pdb
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\MyWindow.g.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello_MarkupCompile.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello_MarkupCompile.lref
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\App.baml
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\MyWindow.baml
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.g.resources
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.AssemblyInfoInputs.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.AssemblyInfo.cs
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.csproj.CoreCompileInputs.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\refint\WpfHello.dll
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.pdb
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\WpfHello.genruntimeconfig.cache
+C:\Users\naa5\Desktop\лабы C#\WPF\L1\C-labs-wpf2\wpf прак 5 упр 1\WpfHello\WpfHello\obj\Debug\net8.0-windows\ref\WpfHello.dll
